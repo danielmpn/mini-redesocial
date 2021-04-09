@@ -2,3 +2,4 @@
 
 Vazio
 Vazio o
+Vazio e
